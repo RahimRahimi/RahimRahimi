@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Rahimullah Rahimi and I'm a Full-Stack Developer from Afghanistan 🇦🇫.</p>
+<p align="left">I'm Rahimullah Rahimi and a Full-Stack Web Developer from Afghanistan 🇦🇫.</p>
 
 ###
 
