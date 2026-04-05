@@ -15,10 +15,9 @@
 ###
 
 <p align="left">
-  - 🔭  I’m currently working on something cool 😉<br>
-  - 🌱  I’m currently learning Nextjs <br>
+  - 🔭  Currently working on something cool 😉<br>
+  - 🌱  Currently learning Nextjs <br>
   - 💬  Ask me about anything related to Laravel or ReactJS/Vue.js<br>
-  - 📫 How to reach me: rahimullah.elyas777@gmail.com <br>
   - ⚡  Fun fact: I spend more time debugging than coding — and somehow still enjoy it!
 </p>
 
